@@ -5,4 +5,4 @@ path = "The Legend of Zelda: Breath of the Wild/Mods/Subtitle Bahasa Indonesia (
 description = Paket Graphic Pack Subtitle dan Teks Bahasa Indonesia untuk The Legend of Zelda: Breath of the Wild dan Second Wind di Cemu 2. Created by Ramadhannsu.
 version = 7
 default = true
-fsPriority = 200
+fsPriority = 999
