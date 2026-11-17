@@ -1,0 +1,8 @@
+[Definition]
+titleIds = 00050000101c9400,00050000101c9500,00050000101c9300
+name = BOTW & Second Wind - Subtitle Bahasa Indonesia by Ramadhannsu
+path = "The Legend of Zelda: Breath of the Wild/Mods/Subtitle Bahasa Indonesia (by Ramadhannsu)"
+description = Paket Graphic Pack Subtitle dan Teks Bahasa Indonesia untuk The Legend of Zelda: Breath of the Wild dan Second Wind di Cemu 2. Created by Ramadhannsu.
+version = 7
+default = true
+fsPriority = 100
