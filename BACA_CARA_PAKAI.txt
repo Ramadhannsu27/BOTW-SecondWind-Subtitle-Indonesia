@@ -2,7 +2,7 @@
  MOD SUBTITLE & TEKS BAHASA INDONESIA - ZELDA BOTW & SECOND WIND (CEMU 2)
 ================================================================================
 
-Versi: 1.0.0 (Cemu 2 Graphic Pack Edition)
+Versi: 1.0.1 (High Priority Edition - fsPriority 200)
 Bahasa: Bahasa Indonesia
 Kreator: Ramadhannsu (Created by Ramadhannsu)
 Kompatibilitas:
@@ -13,7 +13,19 @@ Kompatibilitas:
 Fitur Mod:
   - Penerjemahan menyeluruh untuk dialog NPC, jalan cerita, quest, dan antarmuka.
   - Kompatibel penuh dan stabil berdampingan dengan mod Second Wind.
-  - Prioritas file sistem terkonfigurasi (fsPriority = 100) mencegah konflik teks.
+  - Prioritas file sistem ditingkatkan (fsPriority = 200) mencegah Second Wind menimpa teks.
+
+--------------------------------------------------------------------------------
+PENGATURAN WAJIB DI CEMU 2 AGAR TEKS INDONESIA AKTIF:
+--------------------------------------------------------------------------------
+1. Buka Cemu 2.
+2. Masuk ke: Options -> General settings -> General tab.
+3. Pastikan Console Language diatur ke "English".
+4. Masuk ke: Options -> Graphic Packs -> The Legend of Zelda: Breath of the Wild -> Mods.
+5. Berikan tanda centang pada:
+   [v] Second Wind
+   [v] BOTW & Second Wind - Subtitle Bahasa Indonesia by Ramadhannsu
+6. Mainkan game!
 
 --------------------------------------------------------------------------------
 CARA 1: INSTALASI OTOMATIS (REKOMENDASI)
@@ -25,10 +37,10 @@ CARA 1: INSTALASI OTOMATIS (REKOMENDASI)
 --------------------------------------------------------------------------------
 CARA 2: INSTALASI MANUAL (COPY - PASTE)
 --------------------------------------------------------------------------------
-1. Copy seluruh folder ini: "BOTW_SecondWind_Indo_GraphicPack"
+1. Copy folder mod ini.
 2. Masuk ke folder instalasi Cemu 2 Anda -> buka folder "graphicPacks".
 3. Tempel (Paste) folder ke dalam "graphicPacks".
-   Strukturnya akan menjadi:
+   Strukturnya:
    Cemu/graphicPacks/BOTW_SecondWind_Indo_GraphicPack/
        ├── rules.txt
        └── content/
@@ -38,19 +50,6 @@ CARA 2: INSTALASI MANUAL (COPY - PASTE)
                └── Resource/
                    └── ResourceSizeTable.product.srsizetable
 
---------------------------------------------------------------------------------
-CARA AKTIFKAN DI EMULATOR CEMU 2:
---------------------------------------------------------------------------------
-1. Buka aplikasi Cemu 2.
-2. Masuk ke menu: Options -> Graphic Packs.
-3. Buka kategori: The Legend of Zelda: Breath of the Wild -> Mods.
-4. Berikan tanda centang pada:
-   [v] Second Wind
-   [v] BOTW & Second Wind - Subtitle Bahasa Indonesia by Ramadhannsu
-5. Pastikan Console Language diatur ke "English" (Options -> General Settings).
-6. Mainkan game BOTW!
-
 ================================================================================
-Selamat Menikmati Petualangan di Hyrule dengan Subtitle Bahasa Indonesia!
 Created by Ramadhannsu
 ================================================================================
