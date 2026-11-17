@@ -1,0 +1,11 @@
+{
+  "name": "BOTW & Second Wind - Subtitle Bahasa Indonesia",
+  "version": "1.0.1",
+  "description": "Mod Subtitle dan Teks Bahasa Indonesia untuk The Legend of Zelda: Breath of the Wild dan Second Wind di Cemu 2. Created by Ramadhannsu.",
+  "author": "Ramadhannsu",
+  "id": "botw_secondwind_subtitle_indonesia",
+  "category": "Translations",
+  "platforms": [
+    "WiiU"
+  ]
+}
